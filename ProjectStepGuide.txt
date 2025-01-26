@@ -1,0 +1,2 @@
+[Section1: Project Seetup]:
+1. In package.json file, add package manager for latest version of react and its dependencies and Override
