@@ -1,2 +1,4 @@
 [Section1: Project Seetup]:
 1. In package.json file, add package manager for latest version of react and its dependencies and Override
+2. Set up authentication with nextAuth, follow the documentations
+3. Create auth.ts file in the root folder and add the required config 
