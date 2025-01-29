@@ -9,3 +9,6 @@
 6. In Nav component check create a navbar and check if the session is established, use auth package, use ternanry operator to display result based on the session
 7. Instead of button use REact form , since the button is client side , react form is considered as server side
 8. ** IN the git hub OAuth, In the call back URL set https to http since local host uses http**
+
+[Section3: Setting up styles]
+9. Set config for tailwind in tailwind.config.ts
