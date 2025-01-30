@@ -14,7 +14,9 @@
     "react-dom": "$react-dom"
   },
   "dependencies": {
+    "@tailwindcss/postcss7-compat": "^2.2.17",
     "@tailwindcss/typography": "^0.5.16",
+    "autoprefixer": "^9.8.8",
     "next": "15.1.6",
     "next-auth": "^5.0.0-beta.25",
     "react": "^19.0.0",
@@ -28,8 +30,8 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "15.1.6",
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
+    "postcss": "^7.0.39",
+    "tailwindcss": "^3.0.0",
     "typescript": "^5"
   }
 }

@@ -13,3 +13,4 @@
 [Section3: Setting up styles]
 9. Set config for tailwind in tailwind.config.ts
 10. Setup fonts in layout.tsx
+11. Setup tailwind utility classes for hero section in global.css
